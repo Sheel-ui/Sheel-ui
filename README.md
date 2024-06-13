@@ -104,7 +104,7 @@
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4.svg?logo=terraform&logoColor=white">
   <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4.svg?logo=microsoftazure&logoColor=white">
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900.svg?logo=amazonaws&logoColor=white">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900.svg?logo=amazonwebservices&logoColor=white">
 </p>
 
 ### 💻 Software and tools
